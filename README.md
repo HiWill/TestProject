@@ -1,2 +1,2 @@
 # TestProject
-Just For Test
+Just For Tests
